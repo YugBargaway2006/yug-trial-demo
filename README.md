@@ -1,2 +1,4 @@
 # yug-trial-demo
-DEMO LEARNING
+DEMO LEARNING.
+This is my first Demo Repositiry
+Author: Yug Bargaway
