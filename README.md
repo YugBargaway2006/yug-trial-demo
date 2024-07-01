@@ -1,4 +1,6 @@
 # yug-trial-demo
 DEMO LEARNING.
-This is my first Demo Repositiry
+<br>
+This is my first Demo Repository.
+<br>
 Author: Yug Bargaway
