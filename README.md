@@ -1,6 +1,6 @@
-# yug-trial-demo
+# KOSS-Selection-Task
 DEMO LEARNING.
 <br>
-This is my first Demo Repository.
+This Repository contains presentation task of KOSS Selections.
 <br>
 Author: Yug Bargaway (IIT Kharagpur)
